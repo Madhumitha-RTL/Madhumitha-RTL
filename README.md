@@ -1,6 +1,10 @@
 # Hi 👋, I'm Madhumitha
 ### VLSI Engineer | RTL Design & Verifiction | Verilog HDL | Digital Design | FPGA | PCB Desgin
 
+<p align="center">
+  <img src=".assets/ss.gif" width="500" alt="ATM Machine Animation"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
