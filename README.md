@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <video width="700" autoplay loop muted>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="/assets/demo.mp4" type="video/mp4">
 </video>
