@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK">
+    <img src="semiconductor_animated.gif" width="700" alt="Semiconductor Animation">
+  </a>
+</p>
+
+<h3 align="center">VLSI | RTL Design | Design Verification</h3>
