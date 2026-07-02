@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🎥 Demo Video
 
-<video width="700" autoplay loop muted>
-  <source src="/assets/demo.mp4" type="video/mp4">
-</video>
+▶️ [Watch or Download the Video](./assets/demo.mp4)
