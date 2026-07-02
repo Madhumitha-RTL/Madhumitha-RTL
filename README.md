@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="./.assets/ss.gif" width="400" alt="ATM Machine Animation">
+  <img src=".assets/ss.gif" width="400" alt="ATM Machine Animation">
 </p>
 
 ---
