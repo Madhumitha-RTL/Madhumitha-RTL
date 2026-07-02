@@ -1,10 +1,13 @@
 # Hi 👋, I'm Madhumitha
 
 ### VLSI Engineer | RTL Design & Verification | Verilog HDL | Digital Design | FPGA | PCB Design
-![](./.assets/ss.gif)
 
 ---
+<p align="center">
+  <img src="./.assets/ss.gif" width="400" alt="ATM Machine Animation">
+</p>
 
+---
 ## 👨‍💻 About Me
 
 I'm an Electrical and Electronics Engineering student with a strong passion for **VLSI Design**, **Digital Electronics**, and **RTL Development**. I enjoy designing, implementing, and verifying digital circuits using **Verilog HDL**, with a focus on writing clean, efficient, and synthesizable RTL code.
