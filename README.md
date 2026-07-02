@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🎥 Demo Video
-
-▶️ [Watch or Download the Video](./assets/demo.mp4)
+<p align="center">
+  <a href="./assets/demo.mp4">
+    <img src="./assets/ss.gif" width="700" alt="Click to play demo">
+  </a>
+</p>
