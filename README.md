@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhumitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=VLSI+Engineer;RTL+Design+Engineer;Verilog+HDL+Developer;Digital+Design+Enthusiast;Verifiction+Engineer;ASIC+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=1800&pause=400&color=00C2FF&center=true&vCenter=true&width=850&lines=VLSI+Engineer;RTL+Design+Engineer;Verification+Engineer;Verilog+HDL+Developer;Digital+Design+Enthusiast;ASIC+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
