@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madhumitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=VLSI+Engineer;Verification+Engineer;Verilog+HDL+Developer;Digital+Design+Enthusiast;RTL+Design+Engineer;ASIC+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=VLSI+Engineer;RTL+Design+Engineer;Verilog+HDL+Developer;Digital+Design+Enthusiast;Verifiction+Engineer;ASIC+Design" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamilkumaran-DV&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=madhumitha-RTL&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilkumaran-DV&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha-RTL&theme=tokyo-night"/>
 
 </p>
 
@@ -149,11 +149,11 @@
 
 <p align="center">
 
-<a href="https://github.com/tamilkumaran-DV">
+<a href="https://github.com/madhumitha-RTL">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tamilkumaran06">
+<a href="https://www.linkedin.com/in/madhumitha-17p">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
